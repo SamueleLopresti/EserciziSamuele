@@ -52,6 +52,7 @@ public class Main {
             System.out.println(sommacolonne);
             sommacolonne=0;
         }
+        System.out.println("dfff");
 
 
 
